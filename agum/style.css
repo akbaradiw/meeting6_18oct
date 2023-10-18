@@ -1,0 +1,100 @@
+.container {
+    margin: 100px;
+}
+
+.row {
+    text-align: center!important;
+}
+
+.kolom-1 {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.kolom-2 {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.kolom-3 {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.kolom-4 {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.kolom-1 h2 {
+    font-size: 1.5rem;
+    margin-bottom: 0.25rem!important;
+    color: #1e293b;
+    font-family: Inter,"sans-serif";
+    font-weight: 600;
+    line-height: 1.5;
+}
+
+.kolom-2 h2 {
+    font-size: 1.5rem;
+    margin-bottom: 0.25rem!important;
+    color: #1e293b;
+    font-family: Inter,"sans-serif";
+    font-weight: 600;
+    line-height: 1.5;
+
+}
+
+.kolom-3 h2 {
+    font-size: 1.5rem;
+    margin-bottom: 0.25rem!important;
+    color: #1e293b;
+    font-family: Inter,"sans-serif";
+    font-weight: 600;
+    line-height: 1.5;
+}
+
+.kolom-4 h2 {
+    font-size: 1.5rem;
+    margin-bottom: 0.25rem!important;
+    color: #1e293b;
+    font-family: Inter,"sans-serif";
+    font-weight: 600;
+    line-height: 1.5;
+}
+
+.fa-id-badge {
+    color: lightskyblue;
+    font-size: 2.5rem!important;
+    font-weight: 400;
+    line-height: 1;
+    --geeks-text-opacity: 1;
+    margin-bottom: 16px;
+}
+
+.fa-users {
+    color: orange;
+    font-size: 2.5rem!important;
+    font-weight: 400;
+    line-height: 1;
+    --geeks-text-opacity: 1;
+    margin-bottom: 16px;
+}
+
+.fa-television {
+    color: purple;
+    font-size: 2.5rem!important;
+    font-weight: 400;
+    line-height: 1;
+    --geeks-text-opacity: 1;
+    margin-bottom: 16px;
+}
+
+.fa-play {
+    color: red;
+    font-size: 2.5rem!important;
+    font-weight: 400;
+    line-height: 1;
+    --geeks-text-opacity: 1;
+    margin-bottom: 16px;
+}
