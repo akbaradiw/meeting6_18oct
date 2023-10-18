@@ -1,0 +1,35 @@
+/* * {
+  margin: 0px;
+  padding: 0px;
+}
+
+.containerr {
+  display: flex;
+  gap: 20px;
+}
+
+.left-container {
+  background: salmon;
+  flex: 1;
+}
+
+.right-container {
+  background: aquamarine;
+  flex: 1;
+}
+
+.center-container {
+  background: yellow;
+  flex: 1;
+}
+
+@media screen and (max-width: 700px) {
+  .containerr {
+    flex-flow: inherit;
+  }
+}
+
+@media screen and (min-width: 700px) and (max-width: 1000px) {
+  .containerr {
+    flex-direction: column;
+  } */
