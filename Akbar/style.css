@@ -1,35 +1,11 @@
-/* * {
-  margin: 0px;
-  padding: 0px;
+#icon {
+  font-size: 2.5rem !important;
 }
 
-.containerr {
-  display: flex;
-  gap: 20px;
+* {
+  margin-top: 25px;
 }
 
-.left-container {
-  background: salmon;
-  flex: 1;
+h2 {
+  font-family: sans-serif;
 }
-
-.right-container {
-  background: aquamarine;
-  flex: 1;
-}
-
-.center-container {
-  background: yellow;
-  flex: 1;
-}
-
-@media screen and (max-width: 700px) {
-  .containerr {
-    flex-flow: inherit;
-  }
-}
-
-@media screen and (min-width: 700px) and (max-width: 1000px) {
-  .containerr {
-    flex-direction: column;
-  } */
