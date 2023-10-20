@@ -1,100 +1,123 @@
 .medali {
-    text-align: center;  /* Meletakkan konten di tengah secara horizontal */
-    padding: 20px 0;     /* Memberi jarak atas dan bawah untuk medali */
-    }
-    .container-custom-1{
-        text-align: center!important;
-        padding-bottom: 3rem!important;
-        padding-top: 3rem!important;
-        box-sizing: border-box;
-        display: block;
-    }
+    text-align: center;
+    padding: 14px;
     
-    .medali i {
-    font-size: 50px;    /* Anda dapat menyesuaikan ukuran sesuai kebutuhan */
-    color: aqua;
-    }
-    
-    .konten-1 h1 {
-    font-size: 20px;    /* Mengurangi ukuran tulisan */
+}
+.container-custom-1{
+    text-align: center!important;
+    padding-bottom: 3rem!important;
+    padding-top: 3rem!important;
+    box-sizing: border-box;
+    display: block;
+}
+
+.medali i {
+
+font-size: 50px;    /* Anda dapat menyesuaikan ukuran sesuai kebutuhan */
+color: aqua;
+}
+
+.konten-1 h1 {
+font-size: 24px;    /* Mengurangi ukuran tulisan */
+font-family: sans-serif;
+font-weight: bold;
+}
+.konten-1 p{
+    font-size: 14px;
     font-family: sans-serif;
-    }
-    
-    .konten-1 {
-    text-align: center; /* Meletakkan konten di tengah secara horizontal */
+}
+
+.konten-1 {
+text-align: center; /* Meletakkan konten di tengah secara horizontal */
+font-family: sans-serif;
+}
+/* */
+.container-custom-2{
+    text-align: center!important;
+    padding-bottom: 3rem!important;
+    padding-top: 3rem!important;
+    box-sizing: border-box;
+    display: block;
+}
+.user{
+text-align: center;
+padding: 14px;
+color: orange   ;
+}
+.user i{
+    font-size: 50px;
+}
+.konten-2 h1{
+    font-size: 24px;
     font-family: sans-serif;
-    }
-    /* */
-    .container-custom-2{
-        text-align: center!important;
-        padding-bottom: 3rem!important;
-        padding-top: 3rem!important;
-        box-sizing: border-box;
-        display: block;
-    }
-    .user{
+    font-weight: bold;
+}
+.konten-2 {
     text-align: center;
-    padding: 20px;
-    color: orange   ;
-    }
-    .user i{
-        font-size: 50px;
-    }
-    .konten-2 h1{
-        font-size: 20px;
-        font-family: sans-serif;
-    }
-    .konten-2 {
-        text-align: center;
-        font-family: sans-serif;
-    }
-    /* */
-    .container-custom-3{
-        text-align: center!important;
-        padding-bottom: 3rem!important;
-        padding-top: 3rem!important;
-        box-sizing: border-box;
-        display: block;
-    }
-    .tv{
+    font-family: sans-serif;
+}
+.konten-2 p{
+    font-size: 14px;
+    font-family: sans-serif;
+}
+/* */
+.container-custom-3{
+    text-align: center!important;
+    padding-bottom: 3rem!important;
+    padding-top: 3rem!important;
+    box-sizing: border-box;
+    display: block;
+}
+.tv{
     text-align: center;
-    padding: 20px;
-    color: blueviolet;
-    }
-    .tv i{
-        font-size: 50px;
-    }
-    .konten-3 h1{
-        font-size: 20px;
-        font-family: sans-serif;
-    }
-    .konten-3 {
-        text-align: center;
-        font-family: sans-serif;
-    }
-    /* */
-    .container-custom-4{
-        text-align: center!important;
-        padding-bottom: 3rem!important;
-        padding-top: 3rem!important;
-        box-sizing: border-box;
-        display: block;
-    }
-    .film{
-    text-align: center;
-    padding: 20px;
-    color:green;
-    }
-    .film i{
-        font-size: 50px;
-    }
-    .konten-4 h1{
-        font-size: 20px;
-        font-family: sans-serif;
-    }
-    .konten-4 {
-        text-align: center;
-        font-family: sans-serif;
-    }
+    padding: 14px;
     
+color: blueviolet;
+}
+.tv i{
+    font-size: 50px;
+}
+.konten-3 h1{
+    font-size: 24px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+.konten-3 {
+    text-align: center;
+    font-family: sans-serif;
+}
+.konten-3 p{
+    font-size: 14px;
+    font-family: sans-serif;
+}
+/* */
+.container-custom-4{
+    text-align: center!important;
+    padding-bottom: 3rem!important;
+    padding-top: 3rem!important;
+    box-sizing: border-box;
+    display: block;
+}
+.film{
+    text-align: center;
+    padding: 14px;
     
+color:green;
+}
+.film i{
+    font-size: 50px;
+}
+.konten-4 h1{
+    font-size: 24px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+.konten-4 {
+    text-align: center;
+    font-family: sans-serif;
+}
+.konten-4 p{
+    font-size: 14px;
+    font-family: sans-serif;
+}
+
